@@ -1,4 +1,4 @@
-# To-Do List Application
+# To-Do List CLI Tool
 ## CS5004 Object-Oriented Design — Assignment 9
 
 ### Description:
