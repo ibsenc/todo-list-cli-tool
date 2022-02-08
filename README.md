@@ -18,6 +18,7 @@ In this assignment we made a lot of use of the Singleton pattern, especially for
 - Integration Testing/Mocking: Mockito was used to test TodoApplication
   
 #### Test Coverage:
+
 - You can view test coverage below, or by navigating to the JaCoCo HTML, which can be found at the path `build/jacocoHtml/index.html`.
 
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -26,8 +27,6 @@ In this assignment we made a lot of use of the Singleton pattern, especially for
       <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
       <link rel="stylesheet" href="jacoco-resources/report.css" type="text/css"/>
       <link rel="shortcut icon" href="jacoco-resources/report.gif" type="image/gif"/>
-      <title>a9</title>
-      <script type="text/javascript" src="jacoco-resources/sort.js"></script>
    </head>
    <body onload="initialSort(['breadcrumb', 'coveragetable'])">
       <table class="coverage" cellspacing="0" id="coveragetable">
